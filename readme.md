@@ -1,6 +1,6 @@
 # load.mattrude.com
 
-This is the [Google app engine ](https://appengine.google.com) for the Application ID `mattrude-status`.
+This is the [Google app engine](https://appengine.google.com) for the Application ID `mattrude-status`.
 
 ## Deploying
 
